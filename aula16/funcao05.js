@@ -1,4 +1,4 @@
-function fatorial(n) {
+/*function fatorial(n) {
     if ( n==1 ) {
         return 1
     } else {
@@ -7,3 +7,7 @@ function fatorial(n) {
 }
 
 console.log(fatorial(5))
+*/
+let num = 8
+num **= 2
+console.log(num)
